@@ -1,0 +1,14 @@
+variable "vm_name" {}
+variable "location" {}
+variable "resource_group_name" {}
+variable "size" {}
+variable "computer_name" {}
+variable "os_disk_name" {}
+variable "publisher" {}
+variable "offer" {}
+variable "sku" {}
+variable "version1" {}
+variable "key_vault_name" {}
+variable "username_secret_key" {}
+variable "pwd_secret_key" {}
+variable "nic_name" {}
